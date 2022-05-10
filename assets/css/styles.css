@@ -3,12 +3,13 @@
     text-align: center;
     font-family: "Nunito", sans-serif;
 }
-.image 
+.pfp 
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
+    border: 5px solid grey;
 }
 .footer 
 {
@@ -17,7 +18,7 @@
    bottom: 0;
    width: 100%;
    background-color: white;
-   color: gray;
+   color: lightgray;
    font-family: "Nunito", sans-serif;
    text-align: center;
 }
