@@ -1,24 +1,40 @@
 .title 
 {
+    position: relative;
+    top: 590px;
     text-align: center;
     font-family: "Nunito", sans-serif;
+    color: #C8C7DC;
 }
 .pfp 
 {
+    position: relative;
+    top: 200px;
     display: block;
     margin-left: auto;
     margin-right: auto;
     border-radius: 50%;
-    border: 5px solid grey;
+    border: 3px solid #3F3C55;
 }
 .footer 
 {
-   position: fixed;
-   left: 0;
-   bottom: 0;
+   position: relative;
+   top: 490px;
    width: 100%;
-   background-color: white;
-   color: lightgray;
+   background-color: transparent;
+   color: #353B4E;
    font-family: "Nunito", sans-serif;
    text-align: center;
+}
+.git
+{
+    position: relative;
+    top: 490px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body
+{
+    background-color: #232136;
 }
